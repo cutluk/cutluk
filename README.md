@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Luke Cutting
-- 👀 I’m interested in C++, Java, Python, Swift, HTML, and CSS. I also enjoy setting up home networks.
+- 👀 I’m interested in React, JavaScript, C++, HTML, and CSS. I also enjoy setting up home networks.
 - 🌱 I’m currently learning Swift and iOS development
 - 📫 How to reach me https://lukecutting.com
 
